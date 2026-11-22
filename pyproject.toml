@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "easy-task-manager"
+version = "0.1.0"
+description = "Telegram-based семейный список дел"
+requires-python = ">=3.9"
+dependencies = [
+    "aiogram>=3.7,<4.0",
+    "aiohttp>=3.13,<4.0",
+    "tzdata>=2024.1",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0,<9.0",
+]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]

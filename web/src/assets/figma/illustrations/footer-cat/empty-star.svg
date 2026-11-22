@@ -1,0 +1,10 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="23.3376" height="23.3376" viewBox="0 0 23.3376 23.3376" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path id="Star 1" d="M10.7035 0.738985C10.9699 -0.246328 12.3677 -0.246329 12.6341 0.738984L14.6051 8.02823C14.6979 8.37154 14.9661 8.63972 15.3094 8.73255L22.5986 10.7035C23.5839 10.9699 23.5839 12.3677 22.5986 12.6341L15.3094 14.6051C14.9661 14.6979 14.6979 14.9661 14.6051 15.3094L12.6341 22.5986C12.3677 23.5839 10.9699 23.5839 10.7035 22.5986L8.73255 15.3094C8.63972 14.9661 8.37154 14.6979 8.02823 14.6051L0.738985 12.6341C-0.246327 12.3677 -0.246329 10.9699 0.738984 10.7035L8.02823 8.73255C8.37154 8.63972 8.63972 8.37154 8.73255 8.02823L10.7035 0.738985Z" fill="url(#paint0_radial_0_294)"/>
+<defs>
+<radialGradient id="paint0_radial_0_294" cx="0" cy="0" r="1" gradientTransform="matrix(6.09 14.1548 -17.978 10.9622 5.57881 4.76404)" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F6FFE7"/>
+<stop offset="0.377323" stop-color="#D1FD83"/>
+<stop offset="1" stop-color="#B4E75A"/>
+</radialGradient>
+</defs>
+</svg>
